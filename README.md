@@ -18,7 +18,8 @@ The Best Portable I-Ready Cheat To Soove Your Nerves With Being , And Having Min
 Welcome to SinReady! This repository is dedicated to providing The Tools For An I Ready Cheat
 
 ## Installation
-To clone this repository, use the following command in your GitHub terminal: `git clone https://github.com/Rupicc/SinReady`
+To clone this repository, use the following command in your GitHub terminal: `git clone https://github.com/Rupicc/"
+SinReady`
 
 ## Usage
 To use SinReady, follow these steps:
